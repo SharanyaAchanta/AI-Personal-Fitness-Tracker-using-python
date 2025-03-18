@@ -9,8 +9,8 @@ A  **Personal Fitness Tracker** that predicts calories burned based on user inpu
 
 
 
-## ⚙️ How It Works?
-### 📂 Installation & Setup
+## How It Works?
+### Installation & Setup
 ```bash
 # Clone the repository
 git clone https://github.com/SharanyaAchanta/AI-Personal-Fitness-Tracker-using-python.git
